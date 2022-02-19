@@ -1,0 +1,6 @@
+
+typeScript improve devloper experience not enhance any feature of application.
+
+made cahnge in master branch
+
+this is changes that i have made into devlop branch
